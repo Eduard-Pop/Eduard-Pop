@@ -2,7 +2,7 @@ Hi 👋 My name is Eduard Pop
 ===========================
 
 * 🌍  I'm based in Madid,Spain
-* 🖥️  See my portfolio at [MyPortafolio](http://leafy-hummingbird-076c2a.netlify.app/)
+* 🖥️  See my portfolio at [MyPortafolio](https://portfolio-eduard.vercel.app/)
 * ✉️  You can contact me at [eduardedipop@gmail.com](mailto:eduardedipop@gmail.com)
 
 ### Skills
